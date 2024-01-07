@@ -1,0 +1,114 @@
+Anas BALAHCIN
+Futur Ingénieur d'état option MIAGE ,à la recherche d'un 
+stage PFE
+
+anass.balahcin@gmail.com
+
+0673814621
+
+Rabat
+
+www.linkedin.cominanas-balahcin-1b30b523b
+
+CERTIFICATIONS
+
+FORMATIONS ACADÉMIQUES
+
+IBM 
+
+•DevOps, Cloud, and Agile 
+Foundations.
+•Developing Back-End Apps with 
+Node.js and Express.
+
+Meta 
+
+•Advanced React .
+•React Native.
+
+LANGUES
+
+Français
+Courant
+
+Anglais
+Intermédiaire
+
+Arabe
+Maternelle
+
+CENTRES D'INTÉRÊTS
+
+Football
+
+Voyage
+
+Diplome d'ingénieur d'état en informatique spécialité MIAGE (BAC + 5)
+Ecole Marocaine des sciences de l'ingénieur
+2019 - À ce jour là  Rabat
+
+Baccalauréat science mathématique -B
+Lycée HASSAN 2
+2019  salé
+
+EXPERIENCES PROFESSIONNELLES
+
+Agence Marocaine de Développement des Investissements et des Exportations (AMDIE)
+Ingénieur stagiaire
+072023 – 082023  Rabat
+Conception et réalisation d'un CRM afin de gérer les relations clients d'AMDIE.
+outils PHP - MySQL - React.
+Manipulations PowerBI.
+
+Ministère de la Santé
+Stage d'observation
+072022 – 082022  Rabat
+Implémentation d'un VPN IPsec et d'un pare-feu pour la sécurité du réseau, permettant une 
+communication sécurisée et une protection contre les accès non autorisés entre les hôpitaux.
+
+PROJETS ACADÉMIQUES
+
+Gestion des risques   052023 - 062023(EMSI)
+Site web de gestion des risques AUDIT des entreprises (Framework Nextjs,ExpressJs)
+Objectif
+
+•Créer un site web puissant pour simplifier la gestion et le suivi des risques et aider à la prise de 
+décisions.
+•Il offre une authentification LDAP (via Active Directory) pour les entreprises et une inscription 
+simple pour les utilisateurs individuels.
+
+Gestion des voyages 052022 - 062022(EMSI)
+Site Web qui gère les voyages entre les agences et les clients (Framework Django,Bootstrap)
+Objectif
+
+•Permet la publication, réservation, et supervision via des vues dédiées pour chaque utilisateur.
+
+Gestion établissement scolaire  032022
+Site qui est dédié à gérer les demandes des étudiants à l'administration en ligne (ASP.NET)
+
+Système de Gestion des Employés et des patients à l'Hôpital 052021 - 062021
+Objectif •Programme C++ conçu pour l'organisation efficace des employés, de leurs rapports avec 
+médecins et patients au sein d'un hôpital
+
+CONNAISSANCES TECHNIQUES
+
+Langage de Programmation
+CC++,C#,PHP,Java
+
+Langage de Scripting
+Bash,Python,JS
+
+OS                                                 Cloud
+Linux,Windows                 Azure
+
+DBMS
+Mysql,Oracle Database,sqlServer,MongoDB
+
+Framework
+ASP.NET,Java EE,Flask,Django,React,NextJs,Angular,ExpressJs,React Native
+
+Conception de systèmes d'information
+UML,Merise
+
+DevOps                                  business intelligence
+Git,Docker                       Talend open studio, powerBI
